@@ -12,4 +12,5 @@ public class MenuLectura1 extends AppCompatActivity {
         setContentView(R.layout.activity_menu_lectura1);
         ViewGroup layout = (ViewGroup) findViewById(R.id.activity_display_message);
     }
+
 }
